@@ -7,7 +7,7 @@
     "helpMarkDown": "[Learn more about this task](https://github.com/khulnasoft-lab/vul-azure-pipelines-task)",
     "category": "Test",
     "author": "Khulnasoft Security",
-    "version": { VERSION_PLACEHOLDER },
+    "version": { "Major":0,"Minor":0,"Patch":0 },
     "instanceNameFormat": "Echo vul $(version)",
     "inputs": [
         {

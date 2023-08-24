@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "id": "vul-official-dev",
     "publisher": "KhulnasoftSecurityOfficial",
-    "version": "VERSION_PLACEHOLDER",
+    "version": "",
     "name": "vul-dev",
     "description": "Vul is the world’s most popular open source vulnerability and misconfiguration scanner. It is reliable, fast, extremely easy to use, and it works wherever you need it.",
     "repository": {
